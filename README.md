@@ -15,11 +15,11 @@
 - [x] 헤더
 - [x] 메인
 - [ ] 섹션
-  - [ ] About Me
+  - [x] About Me (2개를 균등 분할, float)
   - [ ] What I Do
   - [ ] Background
   - [ ] PortFolio
-  - [ ] Contact With Me
+  - [x] Contact With Me (폼 태그)
 
 ## Ref.
 - .gitignore
